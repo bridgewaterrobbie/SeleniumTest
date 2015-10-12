@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MyFirstSleniumTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyFirstSleniumTest</output-path>
+    <root id="root">
+      <element id="archive" name="MyFirstSleniumTest.jar">
+        <element id="module-output" name="MyFirstSleniumTest" />
+      </element>
+    </root>
+  </artifact>
+</component>
